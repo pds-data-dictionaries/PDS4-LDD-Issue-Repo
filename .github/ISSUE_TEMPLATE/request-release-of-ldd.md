@@ -2,7 +2,7 @@
 name: Request Release of LDD
 about: Request from EN to release a new version of an LDD to operations.
 title: "[RELEASE} <LDD Name and Version>"
-labels: ''
+labels: ldd-release
 assignees: ''
 
 ---
