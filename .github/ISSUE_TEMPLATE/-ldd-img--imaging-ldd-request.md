@@ -2,7 +2,7 @@
 name: "[ldd-img] Imaging LDD Request"
 about: 'Suggest an idea for an update or submit a bug report for the img: namespace'
 title: "[ldd-img] <Short summary of bug or feature request here>"
-labels: ''
+labels: ldd-img
 assignees: thareUSGS
 
 ---
