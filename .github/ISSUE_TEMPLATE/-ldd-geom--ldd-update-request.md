@@ -1,9 +1,9 @@
 ---
-name: "[ldd-img] Imaging LDD Request"
-about: 'Suggest an idea for an update or submit a bug report for the img: namespace'
-title: "[ldd-img] <Short summary of bug or feature request here>"
-labels: ldd-img
-assignees: thareUSGS
+name: "[ldd-geom] Geometry LDD Update Request"
+about: 'Suggest an idea for an update or submit a bug report for the geom: namespace'
+title: "[ldd-geom] <Short summary of bug or feature request here>"
+labels: ldd-geom
+assignees: sslavney
 
 ---
 

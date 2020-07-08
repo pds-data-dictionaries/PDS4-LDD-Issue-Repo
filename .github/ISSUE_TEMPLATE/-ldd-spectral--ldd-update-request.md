@@ -1,5 +1,5 @@
 ---
-name: "[ldd-spectral] Spectral LDD Request"
+name: "[ldd-spectral] Spectral LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the spectral: namespace'
 title: "[ldd-spectral] <Short summary of bug or feature request here>"
 labels: ldd-spectral
