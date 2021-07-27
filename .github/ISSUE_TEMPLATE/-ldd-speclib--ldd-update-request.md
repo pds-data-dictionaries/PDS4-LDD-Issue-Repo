@@ -2,7 +2,7 @@
 name: "[ldd-speclib] Spectral Library LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the speclib: namespace'
 title: "[ldd-speclib] <Short summary of bug or feature request here>"
-labels: ldd-speclib
+labels: ''
 assignees: sslavney
 
 ---

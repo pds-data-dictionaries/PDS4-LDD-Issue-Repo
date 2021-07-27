@@ -1,6 +1,7 @@
 ---
 name: "[ldd-msn_surface] Surface Mission LDD Update Request"
-about: 'Suggest an idea for an update or submit a bug report for the msn_surface: namespace'
+about: 'Suggest an idea for an update or submit a bug report for the msn_surface:
+  namespace'
 title: "[ldd-msn_surface] <Short summary of bug or feature request here>"
 labels: ldd-msn_surface
 assignees: thareUSGS

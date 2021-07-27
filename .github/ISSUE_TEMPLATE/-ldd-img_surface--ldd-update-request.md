@@ -1,6 +1,7 @@
 ---
 name: "[ldd-img_surface] Surface Imaging LDD Update Request"
-about: 'Suggest an idea for an update or submit a bug report for the img_surface: namespace'
+about: 'Suggest an idea for an update or submit a bug report for the img_surface:
+  namespace'
 title: "[ldd-img_surface] <Short summary of bug or feature request here>"
 labels: ldd-img_surface
 assignees: thareUSGS

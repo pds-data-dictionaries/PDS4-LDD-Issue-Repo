@@ -2,7 +2,7 @@
 name: "[ldd-clementine] Clementine LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the clementine: namespace'
 title: "[ldd-clementine] <Short summary of bug or feature request here>"
-labels: ldd-clementine
+labels: ''
 assignees: thareUSGS
 
 ---

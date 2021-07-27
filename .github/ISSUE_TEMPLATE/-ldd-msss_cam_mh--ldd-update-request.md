@@ -1,6 +1,8 @@
 ---
-name: "[ldd-msss_cam_mh] Malin Space Science Systems (MSSS) Cameras Mini-header LDD Update Request"
-about: 'Suggest an idea for an update or submit a bug report for the msss_cam_mh: namespace'
+name: "[ldd-msss_cam_mh] Malin Space Science Systems (MSSS) Cameras Mini-header LDD
+  Update Request"
+about: 'Suggest an idea for an update or submit a bug report for the msss_cam_mh:
+  namespace'
 title: "[ldd-msss_cam_mh] <Short summary of bug or feature request here>"
 labels: ldd-msss_cam_mh
 assignees: thareUSGS
