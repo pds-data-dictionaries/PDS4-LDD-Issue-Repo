@@ -32,6 +32,6 @@ echo "New issue template created: $output"
 
 git add $template_dir
 git commit -m "Add ${ns} issue template"
-git push origin master
+git push origin main
 
 exit 0
