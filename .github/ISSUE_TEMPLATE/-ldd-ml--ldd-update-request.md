@@ -2,8 +2,8 @@
 name: "[ldd-ml] Machine Learning LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the ml: namespace'
 title: "[ldd-ml] <Short summary of bug or feature request here>"
-labels: ''
-assignees: ''
+labels: ldd-ml
+assignees: wkiri
 
 ---
 
