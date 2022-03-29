@@ -2,8 +2,8 @@
 name: "[ldd-ctli] Context List: Instrument LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the ctli: namespace'
 title: "[ldd-ctli] <Short summary of bug or feature request here>"
-labels: ''
-assignees: ''
+labels: ldd-ctli
+assignees: lylehuber
 
 ---
 
