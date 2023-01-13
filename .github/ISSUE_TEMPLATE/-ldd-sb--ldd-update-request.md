@@ -1,8 +1,8 @@
 ---
-name: "[ldd-sbn] Small Bodies Node LDD Update Request"
-about: 'Suggest an idea for an update or submit a bug report for the sbn: namespace'
-title: "[ldd-sbn] <Short summary of bug or feature request here>"
-labels: ldd-sbn
+name: "[ldd-sb] Small Bodies LDD Update Request"
+about: 'Suggest an idea for an update or submit a bug report for the sb: namespace'
+title: "[ldd-sb] <Short summary of bug or feature request here>"
+labels: ldd-sb
 assignees: acraugh
 
 ---
