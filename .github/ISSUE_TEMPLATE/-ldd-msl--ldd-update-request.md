@@ -1,8 +1,8 @@
 ---
-name: "[ldd-MSL] Mars Science Laboratory LDD Update Request"
-about: 'Suggest an idea for an update or submit a bug report for the MSL: namespace'
-title: "[ldd-MSL] <Short summary of bug or feature request here>"
-labels: ldd-MSL
+name: "[ldd-msl] Mars Science Laboratory LDD Update Request"
+about: 'Suggest an idea for an update or submit a bug report for the msl: namespace'
+title: "[ldd-msl] <Short summary of bug or feature request here>"
+labels: ldd-msl
 assignees: jennifergward
 
 ---
