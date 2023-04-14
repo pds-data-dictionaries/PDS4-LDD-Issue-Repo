@@ -3,7 +3,7 @@ name: "[ldd-proc] Processing Information LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the proc: namespace'
 title: "[ldd-proc] <Short summary of bug or feature request here>"
 labels: ldd-proc
-assignees: thareUSGS
+assignees: rsjoyner
 
 ---
 
