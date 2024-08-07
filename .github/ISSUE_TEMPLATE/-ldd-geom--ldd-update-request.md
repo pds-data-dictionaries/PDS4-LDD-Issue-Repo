@@ -3,7 +3,7 @@ name: "[ldd-geom] Geometry LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the geom: namespace'
 title: "[ldd-geom] <Short summary of bug or feature request here>"
 labels: ldd-geom
-assignees: edguinness
+assignees: alknight-wustl
 
 ---
 
