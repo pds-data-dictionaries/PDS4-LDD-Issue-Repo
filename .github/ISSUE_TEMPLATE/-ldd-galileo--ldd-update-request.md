@@ -3,7 +3,7 @@ name: "[ldd-galileo] Galileo LDD Update Request"
 about: 'Suggest an idea for an update or submit a bug report for the galileo: namespace'
 title: "[ldd-galileo] <Short summary of bug or feature request here>"
 labels: ldd-galileo
-assignees: jennifergward
+assignees: jstone-psi,beatricemueller
 
 ---
 
